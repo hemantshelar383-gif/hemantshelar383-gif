@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Hemant Shelar 👋</h1>
 
 <p align="center">
-  <b>Electronics & Telecommunication Engineer · IoT Researcher · Embedded Systems Enthusiast</b><br/>
-  <i>Building smart systems at the intersection of hardware, AI, and wireless communication</i>
+  <b>3rd Year Electronics & Telecommunication Engineering Student</b><br/>
+  <i>Passionate about Embedded Systems · IoT · Robotics · Computer Vision</i>
 </p>
 
 <p align="center">
@@ -20,26 +20,25 @@
 
 ---
 
-## 🔭 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 **PhD Research Student** — Smart IoT Agriculture, Precision Farming Systems
-- 📡 Designing **multi-node wireless sensor networks** using LoRa, Raspberry Pi & NVIDIA Jetson Orin
-- 🤖 Passionate about **Robotics** — quadruped bionic robots, bio-inspired locomotion & gait analysis
-- 🛠️ Love building things: from PCB design in KiCad to edge AI pipelines
-- 🎬 Sharing project builds & demos on **[YouTube → Electronics Engineer](https://youtube.com/@electronicsengineer-k5j)**
+- 🎓 **3rd Year B.E. Student** — Electronics & Telecommunication Engineering (ENTC)
+- 🔧 Love building real hardware projects — Arduino, sensors, PCBs, and robots
+- 📡 Interested in **IoT, Embedded Systems, Computer Vision & Robotics**
+- 🎬 I document my builds on **[YouTube → Electronics Engineer](https://youtube.com/@electronicsengineer-k5j)**
 - 📍 Based in Nagpur, Maharashtra, India
+- 🌱 Currently learning **LoRa wireless communication & Edge AI**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Embedded & Hardware**
+**Hardware & Embedded**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-Wireless-blueviolet?style=flat)
 ![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=flat)
+![LoRa](https://img.shields.io/badge/LoRa-Wireless-blueviolet?style=flat)
 
 **Software & Languages**
 
@@ -47,62 +46,47 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**IoT & Data**
-
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
-![ChirpStack](https://img.shields.io/badge/ChirpStack-LoRaWAN-green?style=flat)
-![MQTT](https://img.shields.io/badge/MQTT-Protocol-orange?style=flat)
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-### 📡 Smart IoT Agriculture System *(Active Research)*
-Multi-node wireless sensor network for precision agriculture using **LoRa nodes → Raspberry Pi gateway → NVIDIA Jetson Orin** edge AI server. Full data pipeline with InfluxDB, Grafana, Node-RED & ChirpStack.
+### ✋ [Hand Gesture Controlled LEDs](https://github.com/hemantshelar383-gif/gesture-controlled-leds-opencv-arduino)
+Touchless LED control using Python + OpenCV gesture recognition + Arduino serial communication.
+
+`Python` `OpenCV` `Arduino` `Computer Vision` — ▶️ [Watch Demo](https://youtu.be/ykhAPpdsFZ0?si=sObdJjIcfcitu_5Y)
 
 ---
 
 ### 🌍 [GPS & GSM Vehicle Tracking System](https://github.com/hemantshelar383-gif/GPS_GSM_Tracking_System)
-Real-time location tracking using Arduino + NEO-6M GPS + SIM800L GSM. Sends a **live Google Maps link via SMS** with no internet dependency on the device.
+Sends a live **Google Maps link via SMS** using Arduino + NEO-6M GPS + SIM800L GSM.
 
 `Arduino` `C++` `GPS` `GSM` `Embedded`
 
 ---
 
-### ✋ [Hand Gesture Controlled LEDs](https://github.com/hemantshelar383-gif/gesture-controlled-leds-opencv-arduino)
-Touchless LED control using Python, OpenCV gesture recognition, and Arduino serial communication. Real-time webcam-based interaction.
-
-`Python` `OpenCV` `Arduino` `PySerial` `Computer Vision`
-
-▶️ [Watch Demo](https://youtu.be/ykhAPpdsFZ0?si=sObdJjIcfcitu_5Y)
-
----
-
 ### 🚗 [Obstacle Avoidance Robot Car](https://github.com/hemantshelar383-gif/arduino-obstacle-avoidance-car)
-Autonomous robot car using HC-SR04 ultrasonic sensor and L298N motor driver. Detects and avoids obstacles in real time.
+Autonomous robot car that detects and avoids obstacles using HC-SR04 + L298N motor driver.
 
 `Arduino` `C++` `Robotics` `Ultrasonic Sensor`
 
 ---
 
 ### 📡 [Ultrasonic Radar System](https://github.com/hemantshelar383-gif/Radar-Ultrasonic-Arduino)
-Radar-style object detection with Arduino UNO, HC-SR04 sensor, and a **Processing IDE GUI** for live visualization.
+Radar-style object detection with a live **Processing IDE GUI** visualization.
 
 `Arduino` `Processing` `Radar` `Ultrasonic`
 
 ---
 
 ### 🔌 [Breadboard Power Supply PCB](https://github.com/hemantshelar383-gif/simple-breadboard-power-supply-pcb)
-Custom PCB designed in **KiCad** with LM7805 (fixed 5V) and LM317 (adjustable) regulators. Full schematic, layout & 3D verification.
+Custom PCB designed in **KiCad** with fixed 5V and adjustable voltage outputs.
 
-`KiCad` `PCB Design` `Hardware` `LM7805`
+`KiCad` `PCB Design` `LM7805` `LM317`
 
 ---
 
 ### 💡 [First KiCad PCB Project](https://github.com/hemantshelar383-gif/kicad-first-pcb-project)
-Coin-cell powered LED PCB — my entry into professional PCB design. Covers schematic, layout, 3D view, and documentation.
+Coin-cell powered LED PCB — my introduction to professional PCB design.
 
 `KiCad` `PCB` `Hardware Design`
 
@@ -119,7 +103,7 @@ Coin-cell powered LED PCB — my entry into professional PCB design. Covers sche
 
 ## 🎬 YouTube Channel
 
-> I document my electronics & embedded systems builds on YouTube. Check it out!
+> I film my electronics & embedded systems project builds — circuit assembly, coding, demos and more!
 
 <p align="center">
   <a href="https://youtube.com/@electronicsengineer-k5j">
@@ -129,16 +113,16 @@ Coin-cell powered LED PCB — my entry into professional PCB design. Covers sche
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Currently Learning
 
-- 🔬 PhD research in smart precision agriculture with LoRaWAN sensor networks
-- 🤖 Quadruped bionic spider robot design (bio-inspired locomotion, gait analysis)
-- 📊 Edge AI inference pipeline on NVIDIA Jetson Orin for crop health monitoring
+- 📡 LoRa & LoRaWAN wireless sensor networks
+- 🤖 Robotics — quadruped robot design & gait control
+- 🧠 Edge AI with NVIDIA Jetson
 
 ---
 
 <p align="center">
-  <i>⭐ If you find my projects useful, consider giving them a star!</i><br/><br/>
+  <i>⭐ If you like my projects, give them a star — it means a lot!</i><br/><br/>
   <a href="https://youtube.com/@electronicsengineer-k5j">🎬 YouTube</a> ·
   <a href="https://www.linkedin.com/in/hemant-shelar-l07">💼 LinkedIn</a> ·
   <a href="https://github.com/hemantshelar383-gif">🐙 GitHub</a>
