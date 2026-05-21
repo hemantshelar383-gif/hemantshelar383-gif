@@ -1,129 +1,133 @@
-<h1 align="center">Hi there, I'm Hemant Shelar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>3rd Year Electronics & Telecommunication Engineering Student</b><br/>
-  <i>Passionate about Embedded Systems · IoT · Robotics · Computer Vision</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hemant%20Shelar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer&descAlignY=55&descSize=18&descColor=a8dadc" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemant-shelar-l07">
-    <img src="https://img.shields.io/badge/LinkedIn-Hemant%20Shelar-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://youtube.com/@electronicsengineer-k5j">
-    <img src="https://img.shields.io/badge/YouTube-Electronics%20Engineer-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://github.com/hemantshelar383-gif">
-    <img src="https://img.shields.io/badge/GitHub-hemantshelar383--gif-black?style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hemantshelar383-gif&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🔧+Embedded+Systems+%7C+Arduino+%7C+Raspberry+Pi;📡+IoT+%7C+LoRa+%7C+Wireless+Sensor+Networks;👁️+Computer+Vision+%7C+OpenCV+%7C+Python;🖥️+PCB+Design+%7C+KiCad+%7C+Electronics;🤖+Robotics+%7C+Autonomous+Systems)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍🎓 About Me
 
-- 🎓 **3rd Year B.E. Student** — Electronics & Telecommunication Engineering (ENTC)
-- 🔧 Love building real hardware projects — Arduino, sensors, PCBs, and robots
-- 📡 Interested in **IoT, Embedded Systems, Computer Vision & Robotics**
-- 🎬 I document my builds on **[YouTube → Electronics Engineer](https://youtube.com/@electronicsengineer-k5j)**
-- 📍 Based in Nagpur, Maharashtra, India
-- 🌱 Currently learning **LoRa wireless communication & Edge AI**
-
----
-
-## 🧰 Tech Stack
-
-**Hardware & Embedded**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=flat)
-![LoRa](https://img.shields.io/badge/LoRa-Wireless-blueviolet?style=flat)
-
-**Software & Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+```yaml
+Name        : Hemant Shelar
+Degree      : B.E. Electronics & Telecommunication Engineering (4th Year)
+College     : Zeal College of Engineering, Pune
+Location    : Pune, Maharashtra, India
+Interests   : Embedded Systems, IoT, Robotics, Computer Vision, PCB Design
+Final Year  : Smart IoT Agriculture — LoRa Multi-Node Wireless Sensor Network
+Hardware    : Arduino, Raspberry Pi, NVIDIA Jetson Orin, LoRa Modules
+```
 
 ---
 
-## 🚀 My Projects
+## 🛠️ Tech Stack
 
-### ✋ [Hand Gesture Controlled LEDs](https://github.com/hemantshelar383-gif/gesture-controlled-leds-opencv-arduino)
-Touchless LED control using Python + OpenCV gesture recognition + Arduino serial communication.
+**Languages & Frameworks**
 
-`Python` `OpenCV` `Arduino` `Computer Vision` — ▶️ [Watch Demo](https://youtu.be/ykhAPpdsFZ0?si=sObdJjIcfcitu_5Y)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
----
+**Hardware & Microcontrollers**
 
-### 🌍 [GPS & GSM Vehicle Tracking System](https://github.com/hemantshelar383-gif/GPS_GSM_Tracking_System)
-Sends a live **Google Maps link via SMS** using Arduino + NEO-6M GPS + SIM800L GSM.
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-`Arduino` `C++` `GPS` `GSM` `Embedded`
+**Tools & Software**
 
----
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚗 [Obstacle Avoidance Robot Car](https://github.com/hemantshelar383-gif/arduino-obstacle-avoidance-car)
-Autonomous robot car that detects and avoids obstacles using HC-SR04 + L298N motor driver.
+**IoT & Data Stack**
 
-`Arduino` `C++` `Robotics` `Ultrasonic Sensor`
-
----
-
-### 📡 [Ultrasonic Radar System](https://github.com/hemantshelar383-gif/Radar-Ultrasonic-Arduino)
-Radar-style object detection with a live **Processing IDE GUI** visualization.
-
-`Arduino` `Processing` `Radar` `Ultrasonic`
-
----
-
-### 🔌 [Breadboard Power Supply PCB](https://github.com/hemantshelar383-gif/simple-breadboard-power-supply-pcb)
-Custom PCB designed in **KiCad** with fixed 5V and adjustable voltage outputs.
-
-`KiCad` `PCB Design` `LM7805` `LM317`
+![LoRa](https://img.shields.io/badge/LoRa-7B2FBE?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-### 💡 [First KiCad PCB Project](https://github.com/hemantshelar383-gif/kicad-first-pcb-project)
-Coin-cell powered LED PCB — my introduction to professional PCB design.
+## 🚀 Projects
 
-`KiCad` `PCB` `Hardware Design`
+### 🤖 Robotics & Autonomous Systems
+
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [**Autonomous Obstacle Avoidance Car**](https://github.com/hemantshelar383-gif/arduino-obstacle-avoidance-car) | Robotic car that scans left/right and autonomously navigates around obstacles using ultrasonic sensing + servo sweep | Arduino, HC-SR04, L298N, SG90 | [▶ YouTube](https://youtu.be/BB8Q-wxkxsg) |
+
+---
+
+### 👁️ Computer Vision & Human-Computer Interaction
+
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [**Gesture Controlled LEDs**](https://github.com/hemantshelar383-gif/gesture-controlled-leds-opencv-arduino) | Real-time hand gesture recognition via webcam controls Arduino LEDs over serial — no hardware gesture sensor needed | Python, OpenCV, PySerial, Arduino | [▶ YouTube](https://youtu.be/ykhAPpdsFZ0) |
+
+---
+
+### 📡 IoT & Wireless Communication
+
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [**GPS/GSM Vehicle Tracker**](https://github.com/hemantshelar383-gif/GPS_GSM_Tracking_System) | Live location tracking system — sends a clickable Google Maps link via SMS, no internet required on the device | Arduino, NEO-6M, SIM800 GSM | — |
+| [**Ultrasonic Radar with GUI**](https://github.com/hemantshelar383-gif/Radar-Ultrasonic-Arduino) | 180° sweep radar with real-time sonar-style Processing GUI visualization | Arduino, HC-SR04, SG90, Processing | [▶ YouTube](https://youtube.com/shorts/TroUSUrAjIA) |
+
+---
+
+### ⚡ PCB Design (KiCad)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Breadboard Power Supply PCB**](https://github.com/hemantshelar383-gif/simple-breadboard-power-supply-pcb) | Dual-output regulated power supply — fixed 5V (LM7805) + adjustable 1.25V–15V (LM317). Designed, routed, and 3D-verified in KiCad | KiCad, LM7805, LM317 |
+| [**First KiCad PCB — Coin Cell LED**](https://github.com/hemantshelar383-gif/kicad-first-pcb-project) | Entry-level PCB covering the full workflow: schematic → layout → DRC → 3D verification → Gerber export | KiCad, CR2032 |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantshelar383-gif&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantshelar383-gif&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hemantshelar383-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantshelar383-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hemantshelar383-gif&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
 
 ---
 
-## 🎬 YouTube Channel
+## 📬 Connect With Me
 
-> I film my electronics & embedded systems project builds — circuit assembly, coding, demos and more!
+<div align="center">
 
-<p align="center">
-  <a href="https://youtube.com/@electronicsengineer-k5j">
-    <img src="https://img.shields.io/badge/Subscribe-Electronics%20Engineer-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant_Shelar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-shelar-l07)
+[![YouTube](https://img.shields.io/badge/YouTube-Project_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ykhAPpdsFZ0)
+[![GitHub](https://img.shields.io/badge/GitHub-hemantshelar383--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantshelar383-gif)
 
----
-
-## 🌱 Currently Learning
-
-- 📡 LoRa & LoRaWAN wireless sensor networks
-- 🤖 Robotics — quadruped robot design & gait control
-- 🧠 Edge AI with NVIDIA Jetson
+</div>
 
 ---
 
-<p align="center">
-  <i>⭐ If you like my projects, give them a star — it means a lot!</i><br/><br/>
-  <a href="https://youtube.com/@electronicsengineer-k5j">🎬 YouTube</a> ·
-  <a href="https://www.linkedin.com/in/hemant-shelar-l07">💼 LinkedIn</a> ·
-  <a href="https://github.com/hemantshelar383-gif">🐙 GitHub</a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=hemantshelar383-gif&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
